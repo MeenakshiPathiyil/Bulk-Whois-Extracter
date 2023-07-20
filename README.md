@@ -1,5 +1,5 @@
-# Whois Lookup
-The Whois Lookup program allows users to perform WHOIS lookups for domain names and retrieve information about a domain's registration details. Users can specify the domain name they want to query and choose the specific parameter they wish to search for using WHOIS. 
+# WHOIS Lookup
+The WHOIS Lookup program allows users to perform WHOIS lookups for domain names and retrieve information about a domain's registration details. Users can specify the domain name they want to query and choose the specific parameter they wish to search for using WHOIS. 
 
 ## Installation
 To use this program, you need to have Python 3.7 installed on your machine. Follow these steps to get started: 
