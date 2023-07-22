@@ -27,7 +27,7 @@ To use this program, you need to have Python 3.7 installed on your machine. Foll
 4. View Output: The program will fetch the WHOIS information based on your input and display the relevant details for the specified parameter.
 
 ## Contribution
-Contributions to this project are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue on the GitHub repository.
+Contributions to this project are welcome! If you have any suggestions, improvements or bug reports, please open an issue on the GitHub repository.
 
 ## Acknowledgements
 * [**Python Whois Library**](https://pypi.org/project/python-whois/) - Used to retrieve 'whois' data.
